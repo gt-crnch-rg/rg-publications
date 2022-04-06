@@ -8,5 +8,4 @@ All conference proceedings are published here in pre-print format and are provid
 | Presenter | Title | Publication Type | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
 | Jeff Young | "Rogues Gallery Spring 2022 Updates" | Presentation | Georgia Tech | [Slides]() [Video Talk](https://mediaspace.gatech.edu/media/CRNCH+Rogues+Gallery+Testbed+Update+March+9th%2C+2022/1_lsfxwdlk) |
-| Jeff Young | "Rogues Gallery Spring 2022 Updates" | Presentation | Georgia Tech | [Slides]() [Video Talk](https://mediaspace.gatech.edu/media/CRNCH+Rogues+Gallery+Testbed+Update+March+9th%2C+2022/1_lsfxwdlk) |
-
+| Aaron Jezghani | "Onboarding Users to A64FX via Open OnDemand" | Paper | IWAHPCE 2022 | [Slides]() [Paper]() |
