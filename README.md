@@ -31,15 +31,19 @@ This work investigates one particular method to ease the integration of new user
 ## 2021
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
-| Jeffrey Young | "Rogues Gallery 2021 Updates" | Presentation | 1/28/2021 | [CRNCH Summit 2021](https://crnch.gatech.edu/crnch-summit-2021) | [[Slides]]() |
+| Jeffrey Young | "Rogues Gallery 2021 Updates" | Presentation | 1/28/2021 | [CRNCH Summit 2021](https://crnch.gatech.edu/crnch-summit-2021) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2021/Jeff-Young-Rogues-Gallery-Update-CRNCH-Summit-2021.pdf) |
 
 ## 2020
 
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
-| Jason Riedy | "Rogues Gallery and Enabled Research" | Presentation | 1/31/2020 | [CRNCH Summit 2021](https://crnch.gatech.edu/crnch-summit-2021) | [[Slides]]() |
+| Jason Riedy | "Rogues Gallery and Enabled Research" | Presentation | 1/31/2020 | [CRNCH Summit 2021](https://crnch.gatech.edu/crnch-summit-2021) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2020/riedy_rogues_gallery_crnch_summit_2020.pdf) |
 
 ## 2019
+
+| Presenter | Title | Publication Type | Date | Venue | Publication Links |
+| ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Jeffrey Young | "Experimental Insights from the Rogues Gallery" | Paper | 1/31/2020 | [ICRC 2019](https://icrc.ieee.org/past-editions/icrc-2019/) | [[Slides]]() [[Paper]]() [[Abstract]]() |
 
 
 ## 2018
