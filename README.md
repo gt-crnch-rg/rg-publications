@@ -12,7 +12,7 @@ All conference proceedings are published here in pre-print format and are provid
 | Aaron Jezghani | "Jupyter-based Self-Service Training in OOD for Novel Computing Architectures" | Presentation | 2/10/22 | OOD Users Forum | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2022/jezghani_ood_tips_and_tricks_20220203.pdf) |
 | Aaron Jezghani | "Onboarding Users to A64FX via Open OnDemand" | Paper | 1/14/22 | IWAHPCE 2022 | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2022/jezghani_et_al_onboarding_users_a64fx_ood_presentation_IWAHPCE22.pdf) [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/main/publications/2022/jezghani_et_al_onboarding_users_a64fx_ood_iwahpce22.pdf) |
 
-<a id="pearc22">### Enhancing HPC Education and Workflows with Novel Computing Architectures</a>
+<a id="pearc22">**Enhancing HPC Education and Workflows with Novel Computing Architectures**</a>
 **Authors:** Jeffrey Young, Semir Sarajlic, Aaron Jezghani, William Powell, Jeffrey Valdez, Michael D. Weiner, Sam Jijina and Xueyang Liu
 
 Recent HPC education efforts have focused on maximizing the usage of traditional- and cloud-based computing infrastructures that primarily support CPU or GPU hardware. However, recent innovations in CPU architectures from Arm and RISC-V and the acquisition of Field-Programmable Gate Array (FPGA) companies by vendors like Intel and AMD mean that traditional HPC clusters are rapidly becoming more heterogeneous. 
