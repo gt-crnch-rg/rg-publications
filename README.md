@@ -50,7 +50,7 @@ This work investigates one particular method to ease the integration of new user
 
 <a id="pearc19">**Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures</a>
 
-**Authors:** Aaron Jezghani, Kevin Manalo, William Powell, Jeffrey Valdez, Jeffrey Young
+**Authors:** Will Powell, Jason Riedy, Jeffrey S. Young, Thomas M. Conte
 
 The Rogues Gallery is a new experimental testbed that is focused on tackling "rogue" architectures for the Post-Moore era of computing. While some of these devices have roots in the embedded and high-performance computing spaces, managing current and emerging technologies provides a challenge for system administration that are not always foreseen in traditional data center environments.
 
