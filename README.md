@@ -46,7 +46,15 @@ This work investigates one particular method to ease the integration of new user
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
 | Jeffrey Young | "Experimental Insights from the Rogues Gallery" | Paper | 11/7/2019 | [ICRC 2019](https://icrc.ieee.org/past-editions/icrc-2019/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/young_et_al_exp_insights_rogues_gallery_presentation_icrc_2019.pdf) [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/young_et_al_exp_insights_rogues_gallery_preprint_icrc_2019.pdf) [[Abstract]]() |
-| Jason Riedy | "Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures" | Paper | 8/1/2019 | [PEARC 2019](https://pearc.acm.org/pearc19/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/powell_riedy_et_all_wrangling_rogues_presentation_pearc19.pdf) [[Paper]]() [[Abstract]]() |
+| Jason Riedy | "Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures" | Paper | 8/1/2019 | [PEARC 2019](https://pearc.acm.org/pearc19/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/powell_riedy_et_all_wrangling_rogues_presentation_pearc19.pdf) [[Paper]](https://arxiv.org/abs/1808.06334) [[Abstract]](#pearc19) |
+
+<a id="pearc19">**Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures</a>
+
+**Authors:** Aaron Jezghani, Kevin Manalo, William Powell, Jeffrey Valdez, Jeffrey Young
+
+The Rogues Gallery is a new experimental testbed that is focused on tackling "rogue" architectures for the Post-Moore era of computing. While some of these devices have roots in the embedded and high-performance computing spaces, managing current and emerging technologies provides a challenge for system administration that are not always foreseen in traditional data center environments.
+
+We present an overview of the motivations and design of the initial Rogues Gallery testbed and cover some of the unique challenges that we have seen and foresee with upcoming hardware prototypes for future post-Moore research. Specifically, we cover the networking, identity management, scheduling of resources, and tools and sensor access aspects of the Rogues Gallery and techniques we have developed to manage these new platforms.
 
 ## 2018
 To be updated
