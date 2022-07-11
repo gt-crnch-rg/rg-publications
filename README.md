@@ -29,13 +29,18 @@ Arm HPC has succeeded in scaling up in the supercomputing space with the deploym
 This work investigates one particular method to ease the integration of new users into the space of Arm HPC through the use of OOD to provide a consistent and easy-to-use front-end for Georgia Tech's A64FX cluster, Octavius. We detail the motivations for this deployment as well as the potential pitfalls in integrating with an Arm A64FX environment. User-motived applications that incorporate the interactive usage of virtual desktops and Jupyter notebooks are discussed as motivating user workflows, and we provide some context on how future deployments might look with combined Arm and OOD integration.
 
 ## 2021
-To be updated
+| Presenter | Title | Publication Type | Date | Venue | Publication Links |
+| ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Jeffrey Young | "Rogues Gallery 2021 Updates" | Presentation | 1/28/2021 | [CRNCH Summit 2021](https://crnch.gatech.edu/crnch-summit-2021) | [[Slides]]() |
 
 ## 2020
-To be updated
+
+| Presenter | Title | Publication Type | Date | Venue | Publication Links |
+| ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Jason Riedy | "Rogues Gallery and Enabled Research" | Presentation | 1/31/2020 | [CRNCH Summit 2021](https://crnch.gatech.edu/crnch-summit-2021) | [[Slides]]() |
 
 ## 2019
-To be updated
+
 
 ## 2018
 To be updated
