@@ -43,8 +43,8 @@ This work investigates one particular method to ease the integration of new user
 
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
-| Jeffrey Young | "Experimental Insights from the Rogues Gallery" | Paper | 11/6/2019 | [ICRC 2019](https://icrc.ieee.org/past-editions/icrc-2019/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/young_et_al_exp_insights_rogues_gallery_presentation_icrc_2019.pdf) [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/young_et_al_exp_insights_rogues_gallery_preprint_icrc_2019.pdf) [[Abstract]]() |
-| Jason Riedy | "Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures" | Paper | 7/31/2019 | [PEARC 2019](https://pearc.acm.org/pearc19/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/powell_riedy_et_all_wrangling_rogues_presentation_pearc19.pdf) [[Paper]]() [[Abstract]]() |
+| Jeffrey Young | "Experimental Insights from the Rogues Gallery" | Paper | 11/7/2019 | [ICRC 2019](https://icrc.ieee.org/past-editions/icrc-2019/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/young_et_al_exp_insights_rogues_gallery_presentation_icrc_2019.pdf) [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/young_et_al_exp_insights_rogues_gallery_preprint_icrc_2019.pdf) [[Abstract]]() |
+| Jason Riedy | "Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures" | Paper | 8/1/2019 | [PEARC 2019](https://pearc.acm.org/pearc19/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/main/presentations/2019/powell_riedy_et_all_wrangling_rogues_presentation_pearc19.pdf) [[Paper]]() [[Abstract]]() |
 
 ## 2018
 To be updated
