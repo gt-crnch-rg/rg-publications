@@ -50,6 +50,10 @@ This work investigates one particular method to ease the integration of new user
 
 <a id="icrc19">**Experimental Insights from the Rogues Gallery**</a>
 
+**Authors:** Jeffrey Young, Jason Riedy, Prasanth Chatarasi, Sriseshan Srikanth, Thomas M. Conte, Vivek Sarkar
+
+The Rogues Gallery is a new deployment for understanding next-generation hardware with a focus on unorthodox and uncommon technologies. This testbed project was initiated in 2017 in response to Rebooting Computing efforts and initiatives. The Gallery's focus is to acquire new and unique hardware (the rogues) from vendors, research labs, and start-ups and to make this hardware widely available to students, faculty, and industry collaborators within a managed data center environment. By exposing students and researchers to this set of unique hardware, we hope to foster cross-cutting discussions about hardware designs that will drive future performance improvements in computing long after the Moore's Law era of cheap transistors ends. We have defined an initial vision of the infrastructure and driving engineering challenges for such a testbed in a separate document, so here we present highlights of the first one to two years of post-Moore era research with the Rogues Gallery and give an indication of where we see future growth for this testbed and related efforts.
+
 <a id="pearc19">**Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures**</a>
 
 **Authors:** Will Powell, Jason Riedy, Jeffrey S. Young, Thomas M. Conte
