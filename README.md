@@ -22,7 +22,7 @@ Recent HPC education efforts have focused on maximizing the usage of traditional
 
 This work investigates one such example deployed at Georgia Tech - a joint workflow for processor design and reconfigurable computing courses supported by both the HPC-focused Partnership for an Advanced Computing Environment (PACE) and GT's novel architecture center, CRNCH. This collaborative workflow of HPC nodes and 40 remotely accessible Pynq devices supported over 100 students in Spring 2022, and its deployment provides key lessons on sticking points and opportunities for combined HPC and novel architecture workflows.
 
-<a id="iwahpce22">**Enhancing HPC Education and Workflows with Novel Computing Architectures**</a>
+<a id="iwahpce22">**Onboarding Users to A64FX via Open OnDemand**</a>
 
 **Authors:** Aaron Jezghani, Kevin Manalo, William Powell, Jeffrey Valdez, Jeffrey Young
 
