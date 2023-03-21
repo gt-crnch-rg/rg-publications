@@ -5,6 +5,18 @@ Publications and Presentations **about** the CRNCH Rogues Gallery. For publicati
 
 All conference proceedings are published here in pre-print format and are provided for personal use by the authors. All other copyrights remind with their respective owners.
 
+## 2023
+| Presenter | Title | Publication Type | Date | Venue | Publication Links |
+| ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 6/11/22 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]]() [[Abstract]](#edupar23) |
+
+<a id="edupar23">**Future Computing with the Rogues Gallery**</a>
+
+**Authors:** Aaron Jezghani, Jeffrey Young, Will Powell, Ronald Rahaman, J. Eric Coulter
+
+The Vertically Integrated Projects (VIP) Program at Georgia Tech provides a multidisciplinary research experience aimed at engaging undergraduate and graduate research students in large-scale computing research projects. Since 2019, the Future Computing with the Rogues Gallery VIP course has engaged over 75 students in research on topics related to novel architectures and "post-Moore" computing platforms built around quantum, neuromorphic, near-memory, and reconfigurable computing.
+
+One of the key takeaways from this course for the course designers has been on the correlation between these novel computing platforms and traditional skills, techniques, and tools that are used in the HPC and parallel computing arenas. We discuss these parallels as well as the impacts of this course on general student success and research outcomes. 
 
 ## 2022
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
