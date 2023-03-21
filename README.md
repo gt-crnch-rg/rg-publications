@@ -8,7 +8,7 @@ All conference proceedings are published here in pre-print format and are provid
 ## 2023
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
-| Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 6/11/22 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]]() [[Abstract]](#edupar23) |
+| Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 6/11/22 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/d9808fa2485e17ed88559232a69d93289f406e36/publications/2023/jezghani_et_al_future_computing_with_rg_edupar_2023.pdf) [[Abstract]](#edupar23) |
 
 <a id="edupar23">**Future Computing with the Rogues Gallery**</a>
 
