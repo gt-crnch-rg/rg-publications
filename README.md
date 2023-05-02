@@ -3,7 +3,7 @@ Publications and Presentations **about** the CRNCH Rogues Gallery. For publicati
 
 **Funding Acknowledgment**: The Rogues Gallery is funded in part by the NSF CISE Community Research Infrastructure (CCRI) program under Grant #2016701, “CCRI: Medium: Rogues Gallery: A Community Research Infrastructure for Post-Moore Computing” and is part of the larger CCRI Virtual Organization (CCRI-VO) effort.
 
-All conference proceedings are published here in pre-print format and are provided for personal use by the authors. All other copyrights remind with their respective owners.
+All conference proceedings are published here in pre-print format and are provided for personal use by the authors. All other copyrights remain with their respective owners.
 
 ## 2023
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
