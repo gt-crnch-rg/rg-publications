@@ -1,6 +1,8 @@
 # CRNCH Rogues Gallery Publications
 Publications and Presentations **about** the CRNCH Rogues Gallery. For publications that **use** Rogues Gallery resources, please see our main project webpage [here](https://crnch-rg.cc.gatech.edu/crnch-rg-publications/). 
 
+Please see [this handout](https://github.com/gt-crnch-rg/rg-publications/blob/f1dd34042b46702d265f4cdd3e1ae03989c1b507/handouts/2023/CRNCH%20Rogues%20Gallery%20Handout.pdf) for a brief overview of the CRNCH Rogues Gallery testbed.
+
 **Funding Acknowledgment**: The Rogues Gallery is funded in part by the NSF CISE Community Research Infrastructure (CCRI) program under Grant #2016701, “CCRI: Medium: Rogues Gallery: A Community Research Infrastructure for Post-Moore Computing” and is part of the larger CCRI Virtual Organization (CCRI-VO) effort.
 
 All conference proceedings are published here in pre-print format and are provided for personal use by the authors. All other copyrights remain with their respective owners.
