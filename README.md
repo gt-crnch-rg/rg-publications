@@ -11,7 +11,8 @@ All conference proceedings are published here in pre-print format and are provid
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
 | Aaron Jezghani | "The Rogues Gallery: A Novel Architecture Testbed!" | Presentation | 3/21/23 | NSF Access Campus Champions Meeting |[[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/8b068ed693a9d38b60139ff54869f0bb57cd65ec/presentations/2023/jezghani_et_al_rogues_gallery_testbed_nsf_access_campus_champions_%5Bslides%5D_03212023.pdf)
-| Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | TBD | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/d9808fa2485e17ed88559232a69d93289f406e36/publications/2023/jezghani_et_al_future_computing_with_rg_edupar_2023.pdf) [[Abstract]](#edupar23) |
+| Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 5/15/23 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/d9808fa2485e17ed88559232a69d93289f406e36/publications/2023/jezghani_et_al_future_computing_with_rg_edupar_2023.pdf) [[Abstract]](#edupar23) |
+| Aaron Jezghani | "Multifaceted Approaches for Introducing a Hardware-Thread Migratory Architecture" | Paper | July 2023 | [PEARC 2023, SEHET23](https://sighpceducation.acm.org/events/sehet_23_tech/) | [[Abstract]](#sehet23) | 
 
 <a id="edupar23">**Future Computing with the Rogues Gallery**</a>
 
@@ -20,6 +21,14 @@ All conference proceedings are published here in pre-print format and are provid
 The Vertically Integrated Projects (VIP) Program at Georgia Tech provides a multidisciplinary research experience aimed at engaging undergraduate and graduate research students in large-scale computing research projects. Since 2019, the Future Computing with the Rogues Gallery VIP course has engaged over 75 students in research on topics related to novel architectures and "post-Moore" computing platforms built around quantum, neuromorphic, near-memory, and reconfigurable computing.
 
 One of the key takeaways from this course for the course designers has been on the correlation between these novel computing platforms and traditional skills, techniques, and tools that are used in the HPC and parallel computing arenas. We discuss these parallels as well as the impacts of this course on general student success and research outcomes. 
+
+<a id="sehet23">**Multifaceted Approaches for Introducing a Hardware-Thread Migratory Architecture**</a>
+
+**Authors:** Aaron Jezghani, Vedavyas Mallela, Jeffrey Young, Will Powell
+
+The challenges of HPC education span a wide array of targeted applications, ranging from developing a new generation of administrators and facilitators to maintain and support cluster resources and their respective user communities, to broadening the impact of HPCworkflows by reaching non-traditional disciplines and training researchers in the best-practice tools and approaches when using such systems. Furthermore, standard x86 and GPU architectures are becoming untenable to scale to the needs of computational research, necessitating software and hardware co-development on less-familiar processors. While platforms such as Cerebras and SambaNova have matured to include common frameworks such as TensorFlow and PyTorch as well as robust APIs, and thus are amenable to production use cases and instructional material, other systems may lack such infrastructure maturity, impeding all but the most technically inclined developers from being able to leverage the system.
+
+We present here our efforts and outcomes of providing a co-development and instructional platform for the Lucata Pathfinder thread-migratory system in the Rogues Gallery at Georgia Tech. Through a collection of user workflow management, co-development with the platform’s engineers, community tutorials, undergraduate coursework, and student hires, we have been able to explore multiple facets of HPC education in a unique way that can serve as a viable template for others seeking to develop similar efforts.
 
 ## 2022
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
