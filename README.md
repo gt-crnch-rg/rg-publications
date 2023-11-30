@@ -1,7 +1,7 @@
 # CRNCH Rogues Gallery Publications
 Publications and Presentations **about** the CRNCH Rogues Gallery. For publications that **use** Rogues Gallery resources, please see our main project webpage [here](https://crnch-rg.cc.gatech.edu/crnch-rg-publications/). 
 
-Please see [this handout](https://github.com/gt-crnch-rg/rg-publications/blob/f1dd34042b46702d265f4cdd3e1ae03989c1b507/handouts/2023/CRNCH%20Rogues%20Gallery%20Handout.pdf) for a brief overview of the CRNCH Rogues Gallery testbed.
+Please see [this handout](https://github.com/gt-crnch-rg/rg-publications/blob/f1dd34042b46702d265f4cdd3e1ae03989c1b507/handouts/2023/CRNCH%20Rogues%20Gallery%20Handout.pdf) for a brief overview of the CRNCH Rogues Gallery testbed. We also have a [recent poster](https://github.com/gt-crnch-rg/rg-publications/blob/05b918b4dc9e3b06c3bb2ca03d681a68b28d6aae/posters/CRNCH%20Rogues%20Gallery%20Poster%20-%20CIRC%20PI%20Meeting%202023.pdf) from the 2023 NSF CIRC PI meeting that is a good overview of the testbed.
 
 **Funding Acknowledgment**: The Rogues Gallery is funded in part by the NSF CISE Community Research Infrastructure (CCRI) program under Grant #2016701, “CCRI: Medium: Rogues Gallery: A Community Research Infrastructure for Post-Moore Computing” and is part of the larger CCRI Virtual Organization (CCRI-VO) effort.
 
@@ -10,9 +10,12 @@ All conference proceedings are published here in pre-print format and are provid
 ## 2023
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
-| Aaron Jezghani | "The Rogues Gallery: A Novel Architecture Testbed!" | Presentation | 3/21/23 | NSF Access Campus Champions Meeting |[[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/8b068ed693a9d38b60139ff54869f0bb57cd65ec/presentations/2023/jezghani_et_al_rogues_gallery_testbed_nsf_access_campus_champions_%5Bslides%5D_03212023.pdf)
-| Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 5/15/23 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/d9808fa2485e17ed88559232a69d93289f406e36/publications/2023/jezghani_et_al_future_computing_with_rg_edupar_2023.pdf) [[Abstract]](#edupar23) |
+| Jeffrey Young | "Advanced Architecture Playgrounds: Past Lessons and Future Accesses of Testbeds" | Presentation | November 2023| [SC 2023, Advanced Architecture Testbeds Birds of a Feather Session](https://sc23.conference-program.com/presentation/?id=bof157&sess=sess404) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/a10e5f0c12e6dc8415e8cbfb832d93db4bb7292e/presentations/2023/jyoung_rogues_gallery_advanced_arch_playgrounds_bof_sc23.pdf) | 
 | Aaron Jezghani | "Multifaceted Approaches for Introducing a Hardware-Thread Migratory Architecture" | Paper | July 2023 | [PEARC 2023, SEHET23](https://sighpceducation.acm.org/events/sehet_23_tech/) | [[Abstract]](#sehet23) | 
+| Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 5/15/23 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/d9808fa2485e17ed88559232a69d93289f406e36/publications/2023/jezghani_et_al_future_computing_with_rg_edupar_2023.pdf) [[Abstract]](#edupar23) |
+| Aaron Jezghani | "The Rogues Gallery: A Novel Architecture Testbed!" | Presentation | 3/21/23 | NSF Access Campus Champions Meeting |[[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/8b068ed693a9d38b60139ff54869f0bb57cd65ec/presentations/2023/jezghani_et_al_rogues_gallery_testbed_nsf_access_campus_champions_%5Bslides%5D_03212023.pdf)
+
+
 
 <a id="edupar23">**Future Computing with the Rogues Gallery**</a>
 
