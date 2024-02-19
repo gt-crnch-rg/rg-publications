@@ -7,6 +7,11 @@ Please see [this handout](https://github.com/gt-crnch-rg/rg-publications/blob/f1
 
 All conference proceedings are published here in pre-print format and are provided for personal use by the authors. All other copyrights remain with their respective owners.
 
+## 2024
+| Presenter | Title | Publication Type | Date | Venue | Publication Links |
+| ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Jeffrey Young | "Introduction to the CRNCH Rogues Gallery" | Presentation | February 2024| [Campus Research Computing Consortium (CaRCC) Systems-Facing Community Call, February 2024](https://docs.google.com/document/d/1H-uA4wXgyAOstoUvqdKW8I3Aj7iPpltXR_iFQ5wphy0/edit) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/110da1d6d62b7b53608f188d69df0d30046eb8b2/presentations/2024/young_et_al_crnch_rg_carcc_systems_feb_2024.pdf) [[Recording (TBD)]]()|
+
 ## 2023
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
