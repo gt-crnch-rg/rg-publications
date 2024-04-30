@@ -11,6 +11,7 @@ All conference proceedings are published here in pre-print format and are provid
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
 | Sterling Peet | "Exploring the Rogues Gallery Testbed for Online Learning" | Demo | April 2024| [Online Masters for Computer Science Demo Session](https://omscs.gatech.edu/2024-omscs-conference-demo-session) | [[Slides]]() [[Github]]()|
+| Aaron Jezghani | "Facilitating Instruction on Exotic Architectures" | Presentation | March 2024| ACCESS Campus Champions - All Champions Call - Education in HPC | [Slides TBD]() [[Recording]](https://www.youtube.com/watch?v=UJHOI8LtM3U)|
 | Jeffrey Young | "Introduction to the CRNCH Rogues Gallery" | Presentation | February 2024| [Campus Research Computing Consortium (CaRCC) Systems-Facing Community Call, February 2024](https://docs.google.com/document/d/1H-uA4wXgyAOstoUvqdKW8I3Aj7iPpltXR_iFQ5wphy0/edit) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/110da1d6d62b7b53608f188d69df0d30046eb8b2/presentations/2024/young_et_al_crnch_rg_carcc_systems_feb_2024.pdf) [[Recording]](https://www.youtube.com/watch?v=YvcUPRf2FBA)|
 
 ## 2023
