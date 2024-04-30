@@ -10,6 +10,7 @@ All conference proceedings are published here in pre-print format and are provid
 ## 2024
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Sterling Peet | "Exploring the Rogues Gallery Testbed for Online Learning" | Demo | April 2024| [Online Masters for Computer Science Demo Session](https://omscs.gatech.edu/2024-omscs-conference-demo-session) | [[Slides]]() [[Github]]()|
 | Jeffrey Young | "Introduction to the CRNCH Rogues Gallery" | Presentation | February 2024| [Campus Research Computing Consortium (CaRCC) Systems-Facing Community Call, February 2024](https://docs.google.com/document/d/1H-uA4wXgyAOstoUvqdKW8I3Aj7iPpltXR_iFQ5wphy0/edit) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/110da1d6d62b7b53608f188d69df0d30046eb8b2/presentations/2024/young_et_al_crnch_rg_carcc_systems_feb_2024.pdf) [[Recording]](https://www.youtube.com/watch?v=YvcUPRf2FBA)|
 
 ## 2023
@@ -21,8 +22,15 @@ All conference proceedings are published here in pre-print format and are provid
 | Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 5/15/23 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/d9808fa2485e17ed88559232a69d93289f406e36/publications/2023/jezghani_et_al_future_computing_with_rg_edupar_2023.pdf) [[Abstract]](#edupar23) |
 | Aaron Jezghani | "The Rogues Gallery: A Novel Architecture Testbed!" | Presentation | 3/21/23 | NSF Access Campus Champions Meeting |[[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/8b068ed693a9d38b60139ff54869f0bb57cd65ec/presentations/2023/jezghani_et_al_rogues_gallery_testbed_nsf_access_campus_champions_%5Bslides%5D_03212023.pdf)
 
+## 2024
 
+<a id="omscs24">**Exploring the Rogues Gallery Testbed for Online Learning**</a>
 
+**Authors:** Sterling Peet, Jeffrey Young
+
+The Rogues Gallery testbed is a novel computer architecture environment sponsored by the National Science Foundation and run by Georgia Tech’s Center for Research into Novel Compute Hierarchies (CRNCH). This testbed is a collaborative effort with PACE and the College of Computing that extends the idea of high-performance computing to new and unique or “rogue” platforms like new GPUs, Arm and RISC-V CPUs, neuromorphic chips, and Field Programmable Gate Arrays (FPGAs). This demonstration provides an overview of how OMSCS students and faculty can access and use resources funded by Georgia Tech’s TechFee program as well as unique capabilities to extend research in the areas of space-compatible hardware and software. Specifically, we will show users how easy it is to run notebook-enabled workflows on the testbed for AI-focused labs and research. Secondly, we will demonstrate an emerging capability for evaluating flight software used by researchers at NASA labs like the Jet Propulsion Laboratory (JPL). Finally, we will share some experiences from OMSCS students working with the Rogues Gallery testbed on evaluating new HPC systems including using the Spatter benchmark, a locally developed tool that is being used for the procurement of next-generation supercomputers at Los Alamos and Sandia National Laboratories.
+
+## 2023
 <a id="edupar23">**Future Computing with the Rogues Gallery**</a>
 
 **Authors:** Aaron Jezghani, Jeffrey Young, Will Powell, Ronald Rahaman, J. Eric Coulter
