@@ -10,7 +10,7 @@ All conference proceedings are published here in pre-print format and are provid
 ## 2025
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
-| Jeffrey Young | "Novel Architecture Infrastructure for Addressing Future HPC Data Challenges" | Invited Talk | February 2025| [Durham University SciComp Seminar](https://scicomp.webspace.durham.ac.uk/events/seminar_series/) | [[Slides]]() |
+| Jeffrey Young | "Novel Architecture Infrastructure for Addressing Future HPC Data Challenges" | Invited Talk | February 2025| [Durham University SciComp Seminar](https://scicomp.webspace.durham.ac.uk/events/seminar_series/) | [[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/b1cb21f1d544dedbc7525823f3e81aa4b8cb1701/presentations/2025/young_novel_arch_testbeds_durham_university_scicomp_feb_2025.pdf) |
 
 ## 2024
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
