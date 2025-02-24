@@ -7,6 +7,11 @@ Please see [this handout](https://github.com/gt-crnch-rg/rg-publications/blob/f1
 
 All conference proceedings are published here in pre-print format and are provided for personal use by the authors. All other copyrights remain with their respective owners.
 
+## 2025
+| Presenter | Title | Publication Type | Date | Venue | Publication Links |
+| ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Jeffrey Young | "Novel Architecture Infrastructure for Addressing Future HPC Data Challenges" | Invited Talk | February 2025| [Durham University SciComp Seminar](https://scicomp.webspace.durham.ac.uk/events/seminar_series/) | [[Slides]]() |
+
 ## 2024
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
@@ -22,6 +27,16 @@ All conference proceedings are published here in pre-print format and are provid
 | Aaron Jezghani | "Multifaceted Approaches for Introducing a Hardware-Thread Migratory Architecture" | Paper | July 2023 | [PEARC 2023, SEHET23](https://sighpceducation.acm.org/events/sehet_23_tech/) | [[Abstract]](#sehet23) | 
 | Aaron Jezghani | "Future Computing with the Rogues Gallery" | Paper | 5/15/23 | [EduPar 2023, IPDPS](https://tcpp.cs.gsu.edu/curriculum/?q=edupar23) | [[Slides TBD]]() [[Paper]](https://github.com/gt-crnch-rg/rg-publications/blob/d9808fa2485e17ed88559232a69d93289f406e36/publications/2023/jezghani_et_al_future_computing_with_rg_edupar_2023.pdf) [[Abstract]](#edupar23) |
 | Aaron Jezghani | "The Rogues Gallery: A Novel Architecture Testbed!" | Presentation | 3/21/23 | NSF Access Campus Champions Meeting |[[Slides]](https://github.com/gt-crnch-rg/rg-publications/blob/8b068ed693a9d38b60139ff54869f0bb57cd65ec/presentations/2023/jezghani_et_al_rogues_gallery_testbed_nsf_access_campus_champions_%5Bslides%5D_03212023.pdf)
+
+## 2025
+
+<a id="scicomp25">**Novel Architecture Infrastructure for Addressing Future HPC Data Challenges**</a>
+
+**Authors:** Jeffrey Young
+
+As we move through the Exascale era and look to integrate more data-intensive AI capabilities into our existing HPC workflows, one key question remains: How will we address the challenges of data movement that will drive future performance gains?
+
+This talk will cover our collaborative work at Georgia Tech on building a novel "post-Moore" testbed, the CRNCH Rogues Gallery, as well as three case studies focused on the following areas: 1) Challenges in developing and deploying near-memory systems to address the demands of sparse, graph-based applications; 2) Opportunities for better evaluating future memory system performance using the open-source Spatter benchmark; and 3) The emergence of SmartNICs and in-network computing as a future avenue for HPC domain-specific data accelerators.
 
 ## 2024
 
